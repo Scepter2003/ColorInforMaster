@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0; /* Optional: Background color for the body */
+}
+.color-picker {
+ background-color: white;
+ padding: 8px;
+ height: fit-content;
+ width: fit-content;
+ border-radius: 5%;
+ display: flex;
+ flex-direction: column;
+}
